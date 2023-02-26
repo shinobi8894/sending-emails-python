@@ -19,3 +19,5 @@
 - #### Adding a single attachment to emails
 - #### Adding multiple Attachments
 - #### Sending HTML contents
+
+Let's grow together with Shinobi !!!
